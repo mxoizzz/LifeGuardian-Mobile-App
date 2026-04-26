@@ -8,7 +8,7 @@
 
 ---
 <p>
-  <img src="assets/screenshots/app.png" width="250"/>
+  <img src="assets/screenshots/app.png" width="750"/>
 </p>
 
 ## 🚀 A Smart Personal Safety & Emergency Companion App
@@ -140,7 +140,7 @@ It combines **live tracking, SOS alerts, incident reporting, and real-time data 
 
 ### System Architecture Design
 <p>
-  <img src="assets/screenshots/architecture.png" width="250"/>
+  <img src="assets/screenshots/architecture.png" width="750"/>
 </p>
 
 ```id="fullarch"
@@ -185,6 +185,11 @@ Twilio WhatsApp API
 
 ## 📸 App Screenshots
 
+### 🚀 App Launch (Splash Screen)
+<p>
+  <img src="assets/screenshots/splash.jpeg" width="250"/>
+</p>
+
 ### 🔐 Authentication
 <p>
   <img src="assets/screenshots/login.jpeg" width="250"/>
@@ -225,10 +230,6 @@ Twilio WhatsApp API
   <img src="assets/screenshots/verify.jpeg" width="250"/>
 </p>
 
-### 🚀 App Launch (Splash Screen)
-<p>
-  <img src="assets/screenshots/splash.jpeg" width="250"/>
-</p>
 ---
 
 # 🔐 Security
