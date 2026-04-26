@@ -257,15 +257,24 @@ flutter run
 * 🔔 Push notifications
 * 🌍 Offline emergency mode
 * 📊 Analytics dashboard
+* ⌚ Smartwatch Integration
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Moiz Shaikh**
 
 ---
 
-# ⭐ Support
+## 🔗 Connect with Me
 
-If you found this useful, give it a ⭐ on GitHub!
+* 💼 LinkedIn: https://www.linkedin.com/in/moizshaikh007/
+* 💻 GitHub: https://github.com/mxoizzz
+* 📧 Email: [moiz.shaikh32477@gmail.com](mailto:moiz.shaikh32477@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
